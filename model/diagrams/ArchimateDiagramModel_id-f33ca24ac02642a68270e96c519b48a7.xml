@@ -15,4 +15,28 @@
         xsi:type="archimate:BusinessActor"
         href="BusinessActor_id-8c94d79fbed9458982bcfc5310736e9f.xml#id-8c94d79fbed9458982bcfc5310736e9f"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-29dda78b77654b11b601f51c11753702">
+    <bounds
+        x="547"
+        y="399"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessRole"
+        href="BusinessRole_id-4486d1946c204f0691678248db0770be.xml#id-4486d1946c204f0691678248db0770be"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-af1087c722dc4c45853707e1c330bb3d">
+    <bounds
+        x="448"
+        y="213"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Location"
+        href="Location_id-a3d1a39a60ed4257b73dfc9f91d01a92.xml#id-a3d1a39a60ed4257b73dfc9f91d01a92"/>
+  </children>
 </archimate:ArchimateDiagramModel>
