@@ -1,4 +1,18 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Карта взаимодействия Bussines Actors"
-    id="id-e82cd2fc535045459da698d360494c4a"/>
+    id="id-e82cd2fc535045459da698d360494c4a">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-cc1619f1f4b5460e8fdb452ba52da55b">
+    <bounds
+        x="219"
+        y="287"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_id-896699fa1c1843d59f7aa82aee545c6a.xml#id-896699fa1c1843d59f7aa82aee545c6a"/>
+  </children>
+</archimate:ArchimateDiagramModel>
