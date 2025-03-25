@@ -1,30 +1,4 @@
 <archimate:ArchimateDiagramModel
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Логистика"
-    id="id-3051341a22524f1e9e2056a930ce3d27">
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-ba802c381e284eff85044cd4e2d5697c">
-    <bounds
-        x="184"
-        y="245"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:BusinessActor"
-        href="BusinessActor_id-e71673827e6f4a59a1a06cebac062576.xml#id-e71673827e6f4a59a1a06cebac062576"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-e8e25246c6e54b948740cc9f889d2c84">
-    <bounds
-        x="350"
-        y="283"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-7c22d4afd98b4666a08e62832b9a8956.xml#id-7c22d4afd98b4666a08e62832b9a8956"/>
-  </children>
-</archimate:ArchimateDiagramModel>
+    id="id-3051341a22524f1e9e2056a930ce3d27"/>
