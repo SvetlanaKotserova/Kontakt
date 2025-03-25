@@ -1,18 +1,4 @@
 <archimate:ArchimateDiagramModel
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Продажи"
-    id="id-f33ca24ac02642a68270e96c519b48a7">
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-76f6aecf4a194a7ea218b7bf7f5bea79">
-    <bounds
-        x="468"
-        y="324"
-        width="373"
-        height="169"/>
-    <archimateElement
-        xsi:type="archimate:BusinessActor"
-        href="BusinessActor_id-71cb57349a204a998f4c2da2011587d1.xml#id-71cb57349a204a998f4c2da2011587d1"/>
-  </children>
-</archimate:ArchimateDiagramModel>
+    id="id-f33ca24ac02642a68270e96c519b48a7"/>
