@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Вельск/ Штат"
-    id="id-1849ae3aee9b47abbcce3afd538110d3">
+    id="id-1849ae3aee9b47abbcce3afd538110d3"
+    connectionRouterType="2">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-6c75b6639a394f759518a03d8c570c87">
@@ -80,7 +81,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-9c6afcfff2be4884b16e8f9cc9e2325c"
-      targetConnections="id-f52054d9841a43c69fc463e275b87641">
+      targetConnections="id-f52054d9841a43c69fc463e275b87641 id-0ba4c6011fa04542ac4be8a4c42b647f">
     <bounds
         x="372"
         y="372"
@@ -146,5 +147,48 @@
     <archimateElement
         xsi:type="archimate:BusinessActor"
         href="BusinessActor_id-dd38f032dc4543fa9586f7cc7ee5de9b.xml#id-dd38f032dc4543fa9586f7cc7ee5de9b"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-62e78af9f1284af384629c8e680c80c7">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-0ba4c6011fa04542ac4be8a4c42b647f"
+        source="id-62e78af9f1284af384629c8e680c80c7"
+        target="id-9c6afcfff2be4884b16e8f9cc9e2325c">
+      <archimateRelationship
+          xsi:type="archimate:AssignmentRelationship"
+          href="AssignmentRelationship_id-0de11e6c2b884e4b87649ac56ce103ec.xml#id-0de11e6c2b884e4b87649ac56ce103ec"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-02674244143e4d6384cc1804d3a405cf"
+        source="id-62e78af9f1284af384629c8e680c80c7"
+        target="id-efcc9788f91b40a68b2279bfa9788ba7">
+      <archimateRelationship
+          xsi:type="archimate:AssignmentRelationship"
+          href="AssignmentRelationship_id-0a70122f2be646b3874e27cf7242baa5.xml#id-0a70122f2be646b3874e27cf7242baa5"/>
+    </sourceConnections>
+    <bounds
+        x="168"
+        y="264"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_id-2c40ee2153fe4311b128d3602208745b.xml#id-2c40ee2153fe4311b128d3602208745b"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-efcc9788f91b40a68b2279bfa9788ba7"
+      targetConnections="id-02674244143e4d6384cc1804d3a405cf">
+    <bounds
+        x="196"
+        y="378"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessRole"
+        href="BusinessRole_id-76dbbdb5603348b5b1bbc278aa5ef4df.xml#id-76dbbdb5603348b5b1bbc278aa5ef4df"/>
   </children>
 </archimate:ArchimateDiagramModel>
