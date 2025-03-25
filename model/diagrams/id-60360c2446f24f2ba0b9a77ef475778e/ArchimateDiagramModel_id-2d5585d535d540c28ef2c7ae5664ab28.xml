@@ -1,4 +1,30 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Бухгалтерия"
-    id="id-2d5585d535d540c28ef2c7ae5664ab28"/>
+    id="id-2d5585d535d540c28ef2c7ae5664ab28">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-8a709f6d14bd4690927fb2874247ba4a">
+    <bounds
+        x="261"
+        y="325"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Node"
+        href="Node_id-1f458f88993948f485b305fd0c76374d.xml#id-1f458f88993948f485b305fd0c76374d"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-7c6d9a657e764a0da66ef07ae2dd1c5f">
+    <bounds
+        x="414"
+        y="336"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:WorkPackage"
+        href="WorkPackage_id-f1af3ef24fae4196a2dc521bf77031e9.xml#id-f1af3ef24fae4196a2dc521bf77031e9"/>
+  </children>
+</archimate:ArchimateDiagramModel>
