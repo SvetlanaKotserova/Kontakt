@@ -758,6 +758,15 @@
           xsi:type="archimate:AssignmentRelationship"
           href="AssignmentRelationship_id-7756f60dc6d140f9a356de09f116d540.xml#id-7756f60dc6d140f9a356de09f116d540"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-5594ca9baf834cad9041bf4513f0b1d7"
+        source="id-dab500b1e6ec40a9b41a72bef4e1bc9d"
+        target="id-15ca54ca62324e80ba2d7cba87d18b72">
+      <archimateRelationship
+          xsi:type="archimate:AssignmentRelationship"
+          href="AssignmentRelationship_id-f0d3e879186a4e1885b0fb849646b8bb.xml#id-f0d3e879186a4e1885b0fb849646b8bb"/>
+    </sourceConnections>
     <bounds
         x="984"
         y="48"
@@ -888,11 +897,11 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-15ca54ca62324e80ba2d7cba87d18b72"
-      targetConnections="id-c32ff86e9f084c2f9f12e73ebd3d8ebf">
+      targetConnections="id-c32ff86e9f084c2f9f12e73ebd3d8ebf id-5594ca9baf834cad9041bf4513f0b1d7">
     <bounds
-        x="952"
+        x="972"
         y="1523"
-        width="208"
+        width="181"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
