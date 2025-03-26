@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Продажи"
+    name="Продажи Вельск Ермакова Т"
     id="id-a2ab3bd5dc8049efa65df5075246ef59"
     connectionRouterType="2">
   <children
@@ -448,8 +448,8 @@
           href="AssignmentRelationship_id-f32104eb1c1d48289fe0dd9d9e703329.xml#id-f32104eb1c1d48289fe0dd9d9e703329"/>
     </sourceConnections>
     <bounds
-        x="113"
-        y="479"
+        x="48"
+        y="468"
         width="120"
         height="55"/>
     <archimateElement
