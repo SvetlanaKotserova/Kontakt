@@ -1,8 +1,73 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Продажи Вельск/Няндома"
+    name="Бух Вельск/Няндома Давыдовская Н"
     id="id-efc97caf9cd94bb9a81b89e4e915c150">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-017d56be9baf401995a4ee95bd6d2c13">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-af7253a8a56c4f53935c960e207e6cd8"
+        source="id-017d56be9baf401995a4ee95bd6d2c13"
+        target="id-b6d3a7f9679944359fda3aed77582664">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-d04bd92948494c46a3e398401b15dd4b.xml#id-d04bd92948494c46a3e398401b15dd4b"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-e21149d8229c402a9de7342e4b6c2c12"
+        source="id-017d56be9baf401995a4ee95bd6d2c13"
+        target="id-cebad095c80846108fb98e83f7850e21">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-344f451cb58749f9b7bd89fb87ca48bf.xml#id-344f451cb58749f9b7bd89fb87ca48bf"/>
+    </sourceConnections>
+    <bounds
+        x="444"
+        y="996"
+        width="361"
+        height="89"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-b6d3a7f9679944359fda3aed77582664"
+        targetConnections="id-1111462edf614d3ebcd7a759902b3b98 id-af7253a8a56c4f53935c960e207e6cd8">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-a493f8144c01434b89e8e676502639af"
+          source="id-b6d3a7f9679944359fda3aed77582664"
+          target="id-cebad095c80846108fb98e83f7850e21">
+        <archimateRelationship
+            xsi:type="archimate:TriggeringRelationship"
+            href="TriggeringRelationship_id-047517a275414960a6e6056d5e50f351.xml#id-047517a275414960a6e6056d5e50f351"/>
+      </sourceConnections>
+      <bounds
+          x="24"
+          y="24"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessProcess"
+          href="BusinessProcess_id-0aff20dd236a48fb86e33ffca2e2f693.xml#id-0aff20dd236a48fb86e33ffca2e2f693"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-cebad095c80846108fb98e83f7850e21"
+        targetConnections="id-a493f8144c01434b89e8e676502639af id-e21149d8229c402a9de7342e4b6c2c12">
+      <bounds
+          x="168"
+          y="46"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessProcess"
+          href="BusinessProcess_id-4586af93c4bb41ce942b99d5716c1359.xml#id-4586af93c4bb41ce942b99d5716c1359"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_id-1bafa5f22d864bc7a4d93212c01036c6.xml#id-1bafa5f22d864bc7a4d93212c01036c6"/>
+  </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-c2a156a2ffe8488e89c0e598b95d9c93"
@@ -651,6 +716,15 @@
       <archimateRelationship
           xsi:type="archimate:TriggeringRelationship"
           href="TriggeringRelationship_id-009ed8a3631b411b92a4093c7dbad7e6.xml#id-009ed8a3631b411b92a4093c7dbad7e6"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-1111462edf614d3ebcd7a759902b3b98"
+        source="id-f34b8ac8d5564d3b89dc2f566050624d"
+        target="id-b6d3a7f9679944359fda3aed77582664">
+      <archimateRelationship
+          xsi:type="archimate:AssignmentRelationship"
+          href="AssignmentRelationship_id-de947b371a8b4926a4c34f1f4b37b6cb.xml#id-de947b371a8b4926a4c34f1f4b37b6cb"/>
     </sourceConnections>
     <bounds
         x="252"
