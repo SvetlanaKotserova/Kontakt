@@ -2,7 +2,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Условия доставки согласованы"
-    id="id-6e31e8d1341f40ea870116537cc819cc">
+    id="id-69c11eadba6142a688e7ab4e52f7949c">
   <source
       xsi:type="archimate:Junction"
       href="Junction_id-eb01478b96b54e339ecd1b916075e30e.xml#id-eb01478b96b54e339ecd1b916075e30e"/>
