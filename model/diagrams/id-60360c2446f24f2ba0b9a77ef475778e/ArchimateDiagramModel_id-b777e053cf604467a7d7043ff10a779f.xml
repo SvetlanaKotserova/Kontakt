@@ -561,8 +561,8 @@
           href="AssignmentRelationship_id-cc2468bfef5b4313adfd0965364a7c33.xml#id-cc2468bfef5b4313adfd0965364a7c33"/>
     </sourceConnections>
     <bounds
-        x="1164"
-        y="544"
+        x="1128"
+        y="636"
         width="120"
         height="55"/>
     <archimateElement
@@ -843,7 +843,7 @@
           href="AssignmentRelationship_id-563d0a6eac254c7fb85bdc157b6e5e0a.xml#id-563d0a6eac254c7fb85bdc157b6e5e0a"/>
     </sourceConnections>
     <bounds
-        x="1128"
+        x="1116"
         y="564"
         width="15"
         height="15"/>
