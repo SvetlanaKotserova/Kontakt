@@ -2,11 +2,11 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Доставка?"
-    id="id-174f84ce052f448b9cc208650a43e98c">
+    id="id-6e3b3f29ac93492aa904b3ed898f3d9e">
   <source
       xsi:type="archimate:Junction"
       href="Junction_id-49b35df17e634a17aa17fc5b029319fd.xml#id-49b35df17e634a17aa17fc5b029319fd"/>
   <target
-      xsi:type="archimate:BusinessProcess"
-      href="BusinessProcess_id-4ffd567405f4407381bcd14595ca1d21.xml#id-4ffd567405f4407381bcd14595ca1d21"/>
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-c4070a0710644ad98f7a527b83ed63bd.xml#id-c4070a0710644ad98f7a527b83ed63bd"/>
 </archimate:TriggeringRelationship>

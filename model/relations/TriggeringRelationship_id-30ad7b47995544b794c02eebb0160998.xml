@@ -4,8 +4,8 @@
     id="id-30ad7b47995544b794c02eebb0160998">
   <source
       xsi:type="archimate:BusinessProcess"
-      href="BusinessProcess_id-794a0edbd7644789a44bd0cde3c8e9c6.xml#id-794a0edbd7644789a44bd0cde3c8e9c6"/>
+      href="BusinessProcess_id-3d34f1e4e46547e79e2d96bd92c106f3.xml#id-3d34f1e4e46547e79e2d96bd92c106f3"/>
   <target
       xsi:type="archimate:Junction"
-      href="Junction_id-36b7cea4fe4345028cbe002ba2d2eaa5.xml#id-36b7cea4fe4345028cbe002ba2d2eaa5"/>
+      href="Junction_id-b0ea93936fa74b8db88ef3895036b175.xml#id-b0ea93936fa74b8db88ef3895036b175"/>
 </archimate:TriggeringRelationship>

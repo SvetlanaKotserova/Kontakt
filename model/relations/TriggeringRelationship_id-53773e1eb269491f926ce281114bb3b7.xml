@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="По условиям договора требуется оформление спецификации?"
+    id="id-53773e1eb269491f926ce281114bb3b7">
+  <source
+      xsi:type="archimate:Junction"
+      href="Junction_id-2cca959c2c9a4450a0beed7bb4d13eb6.xml#id-2cca959c2c9a4450a0beed7bb4d13eb6"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-2a073190d3ea45129b66d2d25e415625.xml#id-2a073190d3ea45129b66d2d25e415625"/>
+</archimate:TriggeringRelationship>
