@@ -1,7 +1,7 @@
 <archimate:TriggeringRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Доставка?"
+    name="Доставка"
     id="id-6e3b3f29ac93492aa904b3ed898f3d9e">
   <source
       xsi:type="archimate:Junction"

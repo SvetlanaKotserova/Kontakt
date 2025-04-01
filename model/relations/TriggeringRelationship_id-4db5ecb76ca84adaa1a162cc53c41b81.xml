@@ -1,12 +1,11 @@
 <archimate:TriggeringRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Самовывоз"
-    id="id-dc66c6499b9b45598c8b4d6b2bdfcb97">
+    id="id-4db5ecb76ca84adaa1a162cc53c41b81">
   <source
       xsi:type="archimate:Junction"
-      href="Junction_id-49b35df17e634a17aa17fc5b029319fd.xml#id-49b35df17e634a17aa17fc5b029319fd"/>
+      href="Junction_id-accf56de7f1744d3938cceb494a6ad0b.xml#id-accf56de7f1744d3938cceb494a6ad0b"/>
   <target
       xsi:type="archimate:Junction"
-      href="Junction_id-9240e2eded7e49be8178356ec3a82968.xml#id-9240e2eded7e49be8178356ec3a82968"/>
+      href="Junction_id-3b5874b38ab9444489517efe5e285a86.xml#id-3b5874b38ab9444489517efe5e285a86"/>
 </archimate:TriggeringRelationship>
