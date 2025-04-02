@@ -140,7 +140,7 @@
             href="AssignmentRelationship_id-027f33664038496aaab70009a7da2502.xml#id-027f33664038496aaab70009a7da2502"/>
       </sourceConnections>
       <bounds
-          x="624"
+          x="576"
           y="24"
           width="133"
           height="49"/>
@@ -938,7 +938,7 @@
           href="CompositionRelationship_id-3919786f9b5a4b51ba93c2602131b4a3.xml#id-3919786f9b5a4b51ba93c2602131b4a3"/>
     </sourceConnections>
     <bounds
-        x="1044"
+        x="1020"
         y="12"
         width="313"
         height="502"/>
@@ -1126,7 +1126,7 @@
           href="ServingRelationship_id-572c8989547b4e05b8e5d76eeee63297.xml#id-572c8989547b4e05b8e5d76eeee63297"/>
     </sourceConnections>
     <bounds
-        x="1104"
+        x="1068"
         y="552"
         width="145"
         height="61"/>
