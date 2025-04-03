@@ -1,12 +1,11 @@
 <archimate:TriggeringRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Условия согласованы с клиентом"
-    id="id-315bef4e7ed24c789236917937c7cde9">
+    id="id-64c31bf209264a93bcf104304609753b">
   <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-c4c9bbe9c61748199f5a136bd1f5f905.xml#id-c4c9bbe9c61748199f5a136bd1f5f905"/>
+  <target
       xsi:type="archimate:Junction"
       href="Junction_id-94b4ceae209d46499e5211f61a66e7f8.xml#id-94b4ceae209d46499e5211f61a66e7f8"/>
-  <target
-      xsi:type="archimate:BusinessProcess"
-      href="BusinessProcess_id-6dc590ce67654a619cb6066d90039525.xml#id-6dc590ce67654a619cb6066d90039525"/>
 </archimate:TriggeringRelationship>
