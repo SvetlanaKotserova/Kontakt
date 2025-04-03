@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Условия изменились?"
+    id="id-2fc461a1994e4c298b5145a5cccecf30">
+  <source
+      xsi:type="archimate:Junction"
+      href="Junction_id-b03b9016bb834365b528c7f93d9748a3.xml#id-b03b9016bb834365b528c7f93d9748a3"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-b9934d7112d2423cb2628eff20e7e251.xml#id-b9934d7112d2423cb2628eff20e7e251"/>
+</archimate:TriggeringRelationship>

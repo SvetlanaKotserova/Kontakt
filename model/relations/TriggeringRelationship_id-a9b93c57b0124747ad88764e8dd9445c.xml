@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Условия не согласованы с клиентом"
+    id="id-a9b93c57b0124747ad88764e8dd9445c">
+  <source
+      xsi:type="archimate:Junction"
+      href="Junction_id-94b4ceae209d46499e5211f61a66e7f8.xml#id-94b4ceae209d46499e5211f61a66e7f8"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-70418e2f6b584a65ad3d05f4e3ff77c6.xml#id-70418e2f6b584a65ad3d05f4e3ff77c6"/>
+</archimate:TriggeringRelationship>
