@@ -1,7 +1,6 @@
 <archimate:TriggeringRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Условия согласованы с клиентом"
     id="id-a15c8cfdd5734156996dc7f4c78c690c">
   <source
       xsi:type="archimate:BusinessService"

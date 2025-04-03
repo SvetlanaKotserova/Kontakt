@@ -848,7 +848,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-d21c502ac2e5429ca7673aa72990210e"
-        targetConnections="id-b27de9ae491c4eea848112ddbe383e0d id-29d09a7b85a1469b8175a2834d6e317a id-37f965ef18ba4fc7892437f7d4e42861">
+        targetConnections="id-b27de9ae491c4eea848112ddbe383e0d id-37f965ef18ba4fc7892437f7d4e42861 id-bf9366d8c6fb4ad19db40ba1e988ae60">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-16ab9e1ce819411188df7fd0fe783fc9"
@@ -892,7 +892,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-659c7bb5f03b4eecb261f6cf1ed2911e"
-        targetConnections="id-afc5b35a7cd549f48685dff7eb923447">
+        targetConnections="id-e9c0a58944a643eab9b80bf809b08622">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-37de7f1f4fb44f11bdb707a53a66ae9b"
@@ -909,12 +909,12 @@
       </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-29d09a7b85a1469b8175a2834d6e317a"
+          id="id-bf9366d8c6fb4ad19db40ba1e988ae60"
           source="id-659c7bb5f03b4eecb261f6cf1ed2911e"
           target="id-d21c502ac2e5429ca7673aa72990210e">
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
-            href="TriggeringRelationship_id-c2fc5d4b55c146d986dd963edb22f473.xml#id-c2fc5d4b55c146d986dd963edb22f473"/>
+            href="TriggeringRelationship_id-315bef4e7ed24c789236917937c7cde9.xml#id-315bef4e7ed24c789236917937c7cde9"/>
       </sourceConnections>
       <bounds
           x="182"
@@ -2296,7 +2296,7 @@
       targetConnections="id-37de7f1f4fb44f11bdb707a53a66ae9b id-2dbdc4a3befe4c23ae4feb4bb25a837e">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-afc5b35a7cd549f48685dff7eb923447"
+        id="id-e9c0a58944a643eab9b80bf809b08622"
         source="id-cb55b8a5a2b94484879a1b3ee4a5e5fc"
         target="id-659c7bb5f03b4eecb261f6cf1ed2911e">
       <archimateRelationship
