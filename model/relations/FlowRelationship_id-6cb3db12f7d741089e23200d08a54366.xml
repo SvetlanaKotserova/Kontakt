@@ -1,6 +1,7 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Условия доставки согласованы?"
     id="id-6cb3db12f7d741089e23200d08a54366">
   <source
       xsi:type="archimate:BusinessProcess"
