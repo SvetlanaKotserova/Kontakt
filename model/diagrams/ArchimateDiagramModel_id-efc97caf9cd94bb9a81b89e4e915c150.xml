@@ -44,9 +44,9 @@
       </sourceConnections>
       <bounds
           x="24"
-          y="24"
-          width="120"
-          height="55"/>
+          y="30"
+          width="156"
+          height="64"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_id-0aff20dd236a48fb86e33ffca2e2f693.xml#id-0aff20dd236a48fb86e33ffca2e2f693"/>
@@ -56,8 +56,8 @@
         id="id-cebad095c80846108fb98e83f7850e21"
         targetConnections="id-a493f8144c01434b89e8e676502639af id-e21149d8229c402a9de7342e4b6c2c12">
       <bounds
-          x="168"
-          y="46"
+          x="216"
+          y="34"
           width="120"
           height="55"/>
       <archimateElement
