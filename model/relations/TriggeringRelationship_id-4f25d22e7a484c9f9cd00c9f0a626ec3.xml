@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Доставка силами перевозчика"
+    id="id-4f25d22e7a484c9f9cd00c9f0a626ec3">
+  <source
+      xsi:type="archimate:Junction"
+      href="Junction_id-49b35df17e634a17aa17fc5b029319fd.xml#id-49b35df17e634a17aa17fc5b029319fd"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-8155582f1c1e4a74baf6d1366ef87278.xml#id-8155582f1c1e4a74baf6d1366ef87278"/>
+</archimate:TriggeringRelationship>

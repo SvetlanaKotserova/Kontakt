@@ -1,7 +1,6 @@
 <archimate:TriggeringRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Самовывоз?"
     id="id-ea6579fe2e5641f68896d94dd138a99a">
   <source
       xsi:type="archimate:Junction"

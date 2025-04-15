@@ -1,7 +1,7 @@
 <archimate:TriggeringRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Новый клиент?"
+    name="Это новый клиент"
     id="id-3e2d4567b42c4c41950707d7072d4068">
   <source
       xsi:type="archimate:Junction"
